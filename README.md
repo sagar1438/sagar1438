@@ -4,8 +4,6 @@
 
 ---
 
----
-
 ## 👨‍💻 About Me
 
 <p>
@@ -33,6 +31,15 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,fastapi" />
+</p>
+
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://skillicons.dev/icons?i=huggingface" />
 </p>
 
 ### Databases
