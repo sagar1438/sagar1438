@@ -66,8 +66,6 @@ Artificial Intelligence & Machine Learning
                 ↓
        Prompt Engineering
                 ↓
-        Computer Vision
-                ↓
        AI-powered Applications
                 ↓
      Full Stack AI Development
