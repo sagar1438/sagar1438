@@ -79,17 +79,6 @@ Artificial Intelligence & Machine Learning
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sagar1438&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar1438&layout=compact&hide_border=true&theme=transparent"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=sagar1438&hide_border=true&theme=transparent"
     height="170"
   />
