@@ -4,20 +4,22 @@
 
 ---
 
+---
+
 ## 👨‍💻 About Me
 
-<pre>
-Full Stack Dev.exe is running...
+<p>
+  <b>full stack dev.exe is running...</b>
+</p>
 
-• Building with React, Python, Java & FastAPI
-• Currently obsessed with AI/ML
-• Exploring LLMs, Computer Vision & intelligent applications
-• Turning random ideas → working products
-• DSA + CS fundamentals = my foundation
-• Learn → Build → Break → Debug → Repeat
-</pre>
-
----
+<p>
+  • Building with <b>React, Python, Java & FastAPI</b><br>
+  • Currently obsessed with <b>AI/ML</b><br>
+  • Exploring <b>LLMs, Computer Vision & intelligent applications</b><br>
+  • Turning random ideas → <b>working products</b><br>
+  • <b>DSA + CS fundamentals</b> = my foundation<br>
+  • Learn → Build → Break → Debug → Repeat
+</p>
 
 ## 🛠️ Tech Stack
 
