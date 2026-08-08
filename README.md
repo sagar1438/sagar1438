@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 <p>
-  <b>full stack dev.exe is running...</b>
+  <b>Full Stack Dev.exe is running...</b>
 </p>
 
 <p>
